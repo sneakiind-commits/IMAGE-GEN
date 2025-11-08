@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Shoot Generator",
+  "description": "Generate high-quality images of a fashion influencer's photo shoot using the Gemini API. Describe the scene and let the AI bring it to life.",
+  "requestFramePermissions": []
+}
